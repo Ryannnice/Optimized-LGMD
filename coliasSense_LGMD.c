@@ -1,7 +1,7 @@
 /*
  * Description: oLGMD1
  * File: coliasSence_LGMD.c
- * Author: Qinbing Fu , Renyuan Liu
+ * Author: Renyuan Liu
  * Date: 2024 May
  *   /********** / : highlights changes in this "FFI_ON_OFF" version versus normal "ON_OFF" version.
 */ 
