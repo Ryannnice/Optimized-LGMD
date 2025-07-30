@@ -39,8 +39,8 @@ uint8_t LGMD_Param_Init(LGMD_pControlTypedef* hLGMD)
 	// ON_OFF LGMD params :
 
 	
-    // tau : 
-    float time_unit = 15 ; // ms
+    	// tau : 
+    	float time_unit = 15 ; // ms
 	// Params->tau_ffi_lowpass = time_unit ;
 	/**********************************************************************************************/
 	Params->alpha_left_on = 0.1 ;
@@ -90,7 +90,7 @@ uint8_t LGMD_Param_Init(LGMD_pControlTypedef* hLGMD)
 	Params->theta_3 = 0 ;
 
 	Params->clip = 0 ;
-    Params->Cw = 4 ; 
+    	Params->Cw = 4 ; 
 	Params->Cde = 1 ; 
 	Params->Tde = 35 ;
 	// Sigmoid : 
